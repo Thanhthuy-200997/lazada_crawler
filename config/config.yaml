@@ -1,0 +1,15 @@
+API:
+    url: 'https://www.lazada.vn/'
+result: '../result/'
+Category: {
+'tui-cho-nu' : 2304191909,
+'kinh-mat-danh-cho-nu': 2306954926,
+'kinh-deo-mat-nu': 2305718923,
+'giay-nu-thoi-trang': 2307287297,
+'non-thoi-trang-nu': 2309602899,
+'giay-nam-thoi-trang': 2307177297,
+'non-thoi-trang-nam': 2309804122,
+'tui-nam': 2309034064,
+'kinh-deo-mat-nam': 2304101672,
+'kinh-mat-danh-cho-nam': 2309201372
+}
