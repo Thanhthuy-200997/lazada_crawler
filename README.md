@@ -1,4 +1,3 @@
-# Project_thanhthuy
 Crawl detail information of product which get from list category id. Specially, get and download image to local device.
 # Code include:
 ## 1.Config.yaml:
